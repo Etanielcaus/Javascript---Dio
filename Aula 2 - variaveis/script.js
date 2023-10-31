@@ -46,6 +46,7 @@ function escopolocal() {
 // comparação
 var zero = 0;
 var zero1 = 0;
+var zero2 = 1;
 var compara = zero == zero1;
 console.log(compara);
 if (zero == zero1) {
