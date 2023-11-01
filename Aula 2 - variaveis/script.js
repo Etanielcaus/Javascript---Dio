@@ -56,3 +56,4 @@ if (zero == zero1) {
 // comparação identica (comparação de tipos)
 var zero3 = '0' === 0;
 console.log(zero3);
+
